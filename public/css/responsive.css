@@ -33,21 +33,3 @@
     padding: 20px;
   }
 }
-
-/* === Các thay đổi cho điện thoại === */
-@media (max-width: 767.98px) {
-
-    /* Thay đổi nền của toàn bộ trang thành màu xám nhạt */
-    body {
-        background-color: #f8f9fa; 
-    }
-
-    /* Giảm kích thước phông chữ của tiêu đề h1 */
-    h1 {
-        font-size: 28px; /* Kích thước nhỏ hơn cho điện thoại */
-    }
-
-    /* Bạn có thể thêm các quy tắc CSS khác ở đây */
-    /* Ví dụ: .my-element { display: none; } để ẩn một phần tử nào đó */
-
-}
